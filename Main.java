@@ -9,7 +9,7 @@ public class Main {
 		System.out.println("Enter the range: ");
 		int r = sc.nextInt();
 		int res = Sum(r);
-		System.out.println(res);
+		System.out.println("Resursive Sum: "+res);
 		sc.close();
 	}
 	
